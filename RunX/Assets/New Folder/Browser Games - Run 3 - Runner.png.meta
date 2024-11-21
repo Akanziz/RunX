@@ -1,0 +1,3216 @@
+fileFormatVersion: 2
+guid: 40e4ddf5f767548f5a497ad8667c0858
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_0
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1026
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385c7829640e64821af2c5358a66575e
+      internalID: -1444645900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1030
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1562120d39c4a8aa52235977161682
+      internalID: -1419081671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1031
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0087cd6c5a247fab26367e4d763dd5
+      internalID: -175136736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1026
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e507b219ba394401a9a4e4348deca2d
+      internalID: 1525033823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_4
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1031
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8147ea14ea1674cad88a166fc31b8c7f
+      internalID: -385522613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1026
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fb8da055f3c48d485895df0f2da3f5
+      internalID: -1715602921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1031
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2342596a2fa44555a33f978398f456a
+      internalID: -2031471549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_7
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1030
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e985163402b46548e05476ed228243
+      internalID: -1571835017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1030
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fe62a6a97bc4c5bb4fd6543fdfebc3
+      internalID: 1675619703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1030
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d3c6c171df948729110e0c80e393c6
+      internalID: 718486038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_10
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1030
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d7f9b20d705492eb7fdc3e13566fe1
+      internalID: 129283096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 933
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d296ec972914266b08eb55f800f1d1
+      internalID: -561336390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_12
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 930
+        width: 85
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c789a1701be42c885080836a2c4701
+      internalID: -1180054451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 929
+        width: 85
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6ee63d2242d4017a63119e66c9bf71
+      internalID: 1855388147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_14
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 929
+        width: 89
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2723c8a9b734a6db83f419d5979374
+      internalID: -861976858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 930
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1247353ae7db249fa8220998b6dec3bb
+      internalID: 51753970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_16
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 924
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b4e4b315f2d40209a5fb853eea614a
+      internalID: 200991794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_17
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 924
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be885b34cce8c42afb0e04d8b6b20e3f
+      internalID: -1527121037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_18
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 926
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579cd45ed310349f780221b90472f521
+      internalID: -1280629153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_19
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 924
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c52a36ed0e94867840dba1203a971e
+      internalID: 1490588795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_20
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 924
+        width: 159
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afdf293cdcd642e8ac4395c51d6d089
+      internalID: 1845287326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 847
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6ee8dfd8eb44fa587d646eb781df2b
+      internalID: -514009358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 843
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e4081e43fc642668b1cd31c6805079
+      internalID: 18633758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_23
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 813
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fede5612e791a4ec19367aaa175b4acc
+      internalID: -1103208327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_24
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 726
+        width: 85
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94215d8723464fcf8a895da155cb3d5
+      internalID: 949827601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 809
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83730d364d0b74b42985818b784757a3
+      internalID: 88347697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_26
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 813
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35523b5a0e809426393f4dff85f61241
+      internalID: 1917955392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_27
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 814
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d4f409cebfb428f88761ad0f6f7156
+      internalID: -1069872412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 809
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b8b10178ee942c5b91ebdc7626c575
+      internalID: 270510479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_29
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 814
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d7f26f8266a439ca16ae2c73b1a355
+      internalID: 219199672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_30
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 809
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fe4cdddcfce403ba1a9e036221fe96
+      internalID: 1068510154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_31
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 814
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4763140d493d43c5b5007ffda9061bf
+      internalID: -1606751538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_32
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 813
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e71368cb0bf44528245f0951dcbf17
+      internalID: -1000325754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_33
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 814
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073e5168ba69a4b70811237265ff4c9d
+      internalID: -910155259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_34
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 813
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f59f11b2c4784c97a72f715b4bcb76d
+      internalID: 1274038244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_35
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 717
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05212035f58194255ab21cdb333c1fa8
+      internalID: -1556624675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_36
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 715
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5368190fe70e4f968a3d3fa3b7fbfc5
+      internalID: 1810509024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_37
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 713
+        width: 87
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be46dab3f2cc42a8a14d36fb0731a76
+      internalID: 1352302349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_38
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 713
+        width: 87
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd4349278cd54acbb42cc8caba2a261
+      internalID: -1318933059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_39
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 714
+        width: 87
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab29d3ea808ce453baae60a68ba5f35c
+      internalID: 1051401469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_40
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 716
+        width: 86
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f620bd6ed48ff452a8df36fb5693e6c4
+      internalID: -299250423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_41
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 716
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9249bf76db84003a66ed001e0b51ec
+      internalID: 859700949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_42
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 718
+        width: 152
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 76, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2849358a1a05048cf88cec2194086c62
+      internalID: -1656889223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_43
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 729
+        width: 88
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22dcdd0d67bb4673ad75cf807bdd7ee
+      internalID: 235735126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_44
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 715
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc66e63e19ec4809b774faf5d362873
+      internalID: -1232883366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_45
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 638
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad52b9136d4c54afa93c3a0ad0aa062e
+      internalID: 1865082267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_46
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 666
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f3e0e8f52ea48a29175ab606f9169a
+      internalID: 1104313229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_47
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 665
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b522fd02dc747b694bc4e97025aa98
+      internalID: 574341789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_48
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 666
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7a923388cb7450888245bb5623ab35
+      internalID: 1729940809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_49
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 666
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e033ba45fb91c41f4be1aecb505cb6bd
+      internalID: 798736840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_50
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 666
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb72a4170259f49d188ac02d8d16fcd4
+      internalID: -2113422783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_51
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 661
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4e5642959a74d3293eeafc2619e3af
+      internalID: -1195207632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_52
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 666
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054e2cda626c2411e93f9c381078b81e
+      internalID: 493325473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_53
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 665
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6245552f27b440dca7fe2f5de5f9543
+      internalID: -180973897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_54
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 666
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae8acfdab8fe4a0b9cde3a4d74f4807
+      internalID: 1297139617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_55
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 665
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1962fa55aca46878ec6df5d3d0f871
+      internalID: 1816791935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_56
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 665
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe688e1570ea40809853ddb306bda74
+      internalID: 241996137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_57
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 579
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729a5fa9eec84437bbc4f54e0df48700
+      internalID: 1653886066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_58
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 579
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6e7a89be7ab42dfad45d61caeb3070
+      internalID: 2124626973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 577
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bc9f25a6b1645e1afff482fbdefc11
+      internalID: 1746119753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_60
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 577
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1764f6e716d414453b975e967b806dc9
+      internalID: -636337244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_61
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 578
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2db3850f3c3140898596117d4913dc6
+      internalID: -2013711135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_62
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 581
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc6c637030ff4f6fb3d59fb3faa1198
+      internalID: -909260040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_63
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 580
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d6a9c7cfd914c5aa714e35bb81af13
+      internalID: 605722597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_64
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 579
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0515fd66cbb48968c6ea86919ca42d
+      internalID: 1507647314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_65
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 577
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fcddf7cf1704e328e5fe47de79c772
+      internalID: -1873868050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_66
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 579
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537c6a7b4d99249c68b1bc096199e53a
+      internalID: -74762259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_67
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 579
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a5ad9306c12451182caf5a4555d39d
+      internalID: -1801977983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_68
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 493
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a71c941b1c5e4324ad21250b24d79fa
+      internalID: 694427216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_69
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 494
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09387b346e85744c5be963b1288b2e41
+      internalID: -1272281843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_70
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 495
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950db0e152ac047119fd250cf042b95d
+      internalID: -1240467982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_71
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 498
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bc2d51b2459448b8f941758982cd87
+      internalID: -1084605404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_72
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 497
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b13aa6158a454000b9227f5796d48eb
+      internalID: -369522982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_73
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 496
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443cef5288ca843608d73253b662391e
+      internalID: -728301897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_74
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 493
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0791d0474c3f241e7be0646aa1fbb9ea
+      internalID: 943212973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_75
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 503
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0164919ecc0444e619f4151584f82893
+      internalID: -1289967343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_76
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 502
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa99f639a78746aea77a33b43d2e39c
+      internalID: 494620669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_77
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 503
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3481078e0d11545bab2ae0f527b0e244
+      internalID: -472579633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_78
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 503
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca4cbe37e2834f11af728ff50abee29
+      internalID: 1779076038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_79
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 503
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1424b40126a2d46f59aa5a806687a0e9
+      internalID: -453862888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_80
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 498
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489b90f066a31429ba9137405aef8c36
+      internalID: -259582936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_81
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 502
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da35dc8c0c3c64898b7469cef1218802
+      internalID: 906962678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_82
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 503
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb2548f7445840d0a872d452cb3bd4e
+      internalID: 1262630562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_83
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 409
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab08896d963af4e34b6b7815719c24bc
+      internalID: 657922808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_84
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 410
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d57efdc7677841d0a9ddae012ba36a6
+      internalID: 1491271694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_85
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 409
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f5c0a0fc1d44093a34e0781ab04911
+      internalID: 449659688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_86
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 411
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436601560c97b4e63bd91744c26d47ce
+      internalID: -15554601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_87
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 413
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44586499a23e340dca665aae7a14fed4
+      internalID: -1177909819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_88
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 415
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11604daa262674d009179f5cd21f9e50
+      internalID: 692277610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_89
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 417
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06a6fa8deb7542d2adbd7ea6ba3e00a
+      internalID: 484434152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_90
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 333
+        width: 67
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d72937f0cb714d48b0c517499e3a43b
+      internalID: -1883769678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_91
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 330
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2396f4da180884fa581421cb80ce52e4
+      internalID: -149769206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_92
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 329
+        width: 135
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7f6f925278946bab87eca8eed68d91
+      internalID: 552734593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_93
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 328
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4519ff09789654b22aa3e0d5dfe570cc
+      internalID: -1920511620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_94
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 328
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91375f3f3dfc43db99a40a88d193e82
+      internalID: -1591508829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_95
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 328
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce5cfeea64a54b408c9b1b6a0ba848c
+      internalID: -2087363398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_96
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 328
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972a94ec911014c259bf9d71293b0dcb
+      internalID: -1828863657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_97
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 329
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baeeeaaa374e242c5b86aa94c49b6b80
+      internalID: 855621257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_98
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 328
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738aab65d18f94b0f907b3545badbc9c
+      internalID: -2019617800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_99
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 328
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab8b4eb3d43040968e46aa362d4b968
+      internalID: 978914485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_100
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 281
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a792d8fd161664d67bce7f107c241944
+      internalID: -1523647033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_101
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 282
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ce36b7e16f54dfc86a50bbefaa9770
+      internalID: -1192714580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_102
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 281
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ef7947a491a491999d1dbc8d40972b
+      internalID: -1767909538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_103
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 282
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43e5da8a98a94ca8aa76e1495e7d864
+      internalID: 2025876425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_104
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 281
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a7e9a3c24b24197a6eb90bc009c4a2
+      internalID: 1120176526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_105
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 282
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8df50c555e9e4fdc8c850fb8b0e8005
+      internalID: 461744574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_106
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 281
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9470ddc1935b74225926770f220ff6c9
+      internalID: 413544151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_107
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 281
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af47157da93c4a8eb2de682f7fdfea7
+      internalID: -814104838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_108
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 188
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41af8af4823044330a253e3d5b77338c
+      internalID: -1579152807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_109
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 189
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91c5252398e54f8583afcb3f2146f4d
+      internalID: -151584047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_110
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 192
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3923d8ac80344c0b989156f0895df31
+      internalID: 1517407324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_111
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 175
+        width: 49
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24421c0f91604085b5295f68b54a48c
+      internalID: -195649065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_112
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 185
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3599dc6fa4ac847b6bb344ecf7419194
+      internalID: -2044807460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_113
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 179
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e66755c776f40bb9050d3bef2721d0
+      internalID: -1259429043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_114
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 184
+        width: 88
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1852528787f1f4dd1887de6575391bc2
+      internalID: -1078849433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_115
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 186
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1a7aa24c4744cdd94c37f1de001207
+      internalID: -746695994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_116
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 185
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b353a470c02894d1e90f0873522f3c85
+      internalID: -1456726640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_117
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 175
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7229a415c154cca89a383798ba59e5
+      internalID: 1603674758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_118
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 188
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91594989e4b1400494d7e108eaa21d4
+      internalID: 1890117177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_119
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 186
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9410df8ae594c03a3ce80f675bdb0b
+      internalID: 1873993646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_120
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 180
+        width: 66
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c61a9765f754775b56496673f01e4a
+      internalID: -5025575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_121
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 182
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0283f4d38a1154610baa6c9fb1a62515
+      internalID: -343273757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_122
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 208
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc34a6cecbdd947ddad6b3de757bc2d6
+      internalID: 1367471643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_123
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 120
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa87536c17a53498981d232740995488
+      internalID: 788722338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_124
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 108
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f542657c2c446bdb3fe27ba30e620f
+      internalID: 348158734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_125
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 104
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033f31c980ce14c96a600d39d9d239bc
+      internalID: -1419564485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_126
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 101
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604428dc299ea4efab1106a8d795d018
+      internalID: -570734109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_127
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 99
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e183b7ccb168544e4b2fe556381b9321
+      internalID: 491846506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_128
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 99
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927c8142c7cbe4889a33cb3cf50f8322
+      internalID: 1377315475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_129
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 96
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93a1d9af668a47c4b284eedea7e1f8a
+      internalID: 1036442969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_130
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 96
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059b7110a5f504244967e1318aa57a55
+      internalID: 840614390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_131
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 120
+        width: 84
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec36e691b31064a699eb4060ce747fbd
+      internalID: 698382300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_132
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 103
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9839514b6969e4ed88c1f83bfbd0d882
+      internalID: 2012156796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_133
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 88
+        width: 50
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f88a28333c04e88b02b7e630cf258d
+      internalID: 1374506662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_134
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 97
+        width: 65
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096a39d8cacaa461a901309b0f84f0f1
+      internalID: -988330834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_135
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 124
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e601b87558964c489d48c1982793880
+      internalID: -1148333154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_136
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 124
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0a2f6283b4b4930a5fdc012af0a8ed
+      internalID: -681976556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_137
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 10
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f050a1731bf5c49309921997700ea998
+      internalID: -1018531563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_138
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 10
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14a8e73e7cf54f79bf9fc2c9ff9e04a
+      internalID: 620668494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_139
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 10
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c7c48d542d8477fab97bc0854c0203
+      internalID: 1376402546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Run 3 - Runner_140
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 25
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2cef46e442a4dacaaeba3e8300947e
+      internalID: -146417725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Browser Games - Run 3 - Runner_0: -1444645900
+      Browser Games - Run 3 - Runner_1: -1419081671
+      Browser Games - Run 3 - Runner_10: 129283096
+      Browser Games - Run 3 - Runner_100: -1523647033
+      Browser Games - Run 3 - Runner_101: -1192714580
+      Browser Games - Run 3 - Runner_102: -1767909538
+      Browser Games - Run 3 - Runner_103: 2025876425
+      Browser Games - Run 3 - Runner_104: 1120176526
+      Browser Games - Run 3 - Runner_105: 461744574
+      Browser Games - Run 3 - Runner_106: 413544151
+      Browser Games - Run 3 - Runner_107: -814104838
+      Browser Games - Run 3 - Runner_108: -1579152807
+      Browser Games - Run 3 - Runner_109: -151584047
+      Browser Games - Run 3 - Runner_11: -561336390
+      Browser Games - Run 3 - Runner_110: 1517407324
+      Browser Games - Run 3 - Runner_111: -195649065
+      Browser Games - Run 3 - Runner_112: -2044807460
+      Browser Games - Run 3 - Runner_113: -1259429043
+      Browser Games - Run 3 - Runner_114: -1078849433
+      Browser Games - Run 3 - Runner_115: -746695994
+      Browser Games - Run 3 - Runner_116: -1456726640
+      Browser Games - Run 3 - Runner_117: 1603674758
+      Browser Games - Run 3 - Runner_118: 1890117177
+      Browser Games - Run 3 - Runner_119: 1873993646
+      Browser Games - Run 3 - Runner_12: -1180054451
+      Browser Games - Run 3 - Runner_120: -5025575
+      Browser Games - Run 3 - Runner_121: -343273757
+      Browser Games - Run 3 - Runner_122: 1367471643
+      Browser Games - Run 3 - Runner_123: 788722338
+      Browser Games - Run 3 - Runner_124: 348158734
+      Browser Games - Run 3 - Runner_125: -1419564485
+      Browser Games - Run 3 - Runner_126: -570734109
+      Browser Games - Run 3 - Runner_127: 491846506
+      Browser Games - Run 3 - Runner_128: 1377315475
+      Browser Games - Run 3 - Runner_129: 1036442969
+      Browser Games - Run 3 - Runner_13: 1855388147
+      Browser Games - Run 3 - Runner_130: 840614390
+      Browser Games - Run 3 - Runner_131: 698382300
+      Browser Games - Run 3 - Runner_132: 2012156796
+      Browser Games - Run 3 - Runner_133: 1374506662
+      Browser Games - Run 3 - Runner_134: -988330834
+      Browser Games - Run 3 - Runner_135: -1148333154
+      Browser Games - Run 3 - Runner_136: -681976556
+      Browser Games - Run 3 - Runner_137: -1018531563
+      Browser Games - Run 3 - Runner_138: 620668494
+      Browser Games - Run 3 - Runner_139: 1376402546
+      Browser Games - Run 3 - Runner_14: -861976858
+      Browser Games - Run 3 - Runner_140: -146417725
+      Browser Games - Run 3 - Runner_15: 51753970
+      Browser Games - Run 3 - Runner_16: 200991794
+      Browser Games - Run 3 - Runner_17: -1527121037
+      Browser Games - Run 3 - Runner_18: -1280629153
+      Browser Games - Run 3 - Runner_19: 1490588795
+      Browser Games - Run 3 - Runner_2: -175136736
+      Browser Games - Run 3 - Runner_20: 1845287326
+      Browser Games - Run 3 - Runner_21: -514009358
+      Browser Games - Run 3 - Runner_22: 18633758
+      Browser Games - Run 3 - Runner_23: -1103208327
+      Browser Games - Run 3 - Runner_24: 949827601
+      Browser Games - Run 3 - Runner_25: 88347697
+      Browser Games - Run 3 - Runner_26: 1917955392
+      Browser Games - Run 3 - Runner_27: -1069872412
+      Browser Games - Run 3 - Runner_28: 270510479
+      Browser Games - Run 3 - Runner_29: 219199672
+      Browser Games - Run 3 - Runner_3: 1525033823
+      Browser Games - Run 3 - Runner_30: 1068510154
+      Browser Games - Run 3 - Runner_31: -1606751538
+      Browser Games - Run 3 - Runner_32: -1000325754
+      Browser Games - Run 3 - Runner_33: -910155259
+      Browser Games - Run 3 - Runner_34: 1274038244
+      Browser Games - Run 3 - Runner_35: -1556624675
+      Browser Games - Run 3 - Runner_36: 1810509024
+      Browser Games - Run 3 - Runner_37: 1352302349
+      Browser Games - Run 3 - Runner_38: -1318933059
+      Browser Games - Run 3 - Runner_39: 1051401469
+      Browser Games - Run 3 - Runner_4: -385522613
+      Browser Games - Run 3 - Runner_40: -299250423
+      Browser Games - Run 3 - Runner_41: 859700949
+      Browser Games - Run 3 - Runner_42: -1656889223
+      Browser Games - Run 3 - Runner_43: 235735126
+      Browser Games - Run 3 - Runner_44: -1232883366
+      Browser Games - Run 3 - Runner_45: 1865082267
+      Browser Games - Run 3 - Runner_46: 1104313229
+      Browser Games - Run 3 - Runner_47: 574341789
+      Browser Games - Run 3 - Runner_48: 1729940809
+      Browser Games - Run 3 - Runner_49: 798736840
+      Browser Games - Run 3 - Runner_5: -1715602921
+      Browser Games - Run 3 - Runner_50: -2113422783
+      Browser Games - Run 3 - Runner_51: -1195207632
+      Browser Games - Run 3 - Runner_52: 493325473
+      Browser Games - Run 3 - Runner_53: -180973897
+      Browser Games - Run 3 - Runner_54: 1297139617
+      Browser Games - Run 3 - Runner_55: 1816791935
+      Browser Games - Run 3 - Runner_56: 241996137
+      Browser Games - Run 3 - Runner_57: 1653886066
+      Browser Games - Run 3 - Runner_58: 2124626973
+      Browser Games - Run 3 - Runner_59: 1746119753
+      Browser Games - Run 3 - Runner_6: -2031471549
+      Browser Games - Run 3 - Runner_60: -636337244
+      Browser Games - Run 3 - Runner_61: -2013711135
+      Browser Games - Run 3 - Runner_62: -909260040
+      Browser Games - Run 3 - Runner_63: 605722597
+      Browser Games - Run 3 - Runner_64: 1507647314
+      Browser Games - Run 3 - Runner_65: -1873868050
+      Browser Games - Run 3 - Runner_66: -74762259
+      Browser Games - Run 3 - Runner_67: -1801977983
+      Browser Games - Run 3 - Runner_68: 694427216
+      Browser Games - Run 3 - Runner_69: -1272281843
+      Browser Games - Run 3 - Runner_7: -1571835017
+      Browser Games - Run 3 - Runner_70: -1240467982
+      Browser Games - Run 3 - Runner_71: -1084605404
+      Browser Games - Run 3 - Runner_72: -369522982
+      Browser Games - Run 3 - Runner_73: -728301897
+      Browser Games - Run 3 - Runner_74: 943212973
+      Browser Games - Run 3 - Runner_75: -1289967343
+      Browser Games - Run 3 - Runner_76: 494620669
+      Browser Games - Run 3 - Runner_77: -472579633
+      Browser Games - Run 3 - Runner_78: 1779076038
+      Browser Games - Run 3 - Runner_79: -453862888
+      Browser Games - Run 3 - Runner_8: 1675619703
+      Browser Games - Run 3 - Runner_80: -259582936
+      Browser Games - Run 3 - Runner_81: 906962678
+      Browser Games - Run 3 - Runner_82: 1262630562
+      Browser Games - Run 3 - Runner_83: 657922808
+      Browser Games - Run 3 - Runner_84: 1491271694
+      Browser Games - Run 3 - Runner_85: 449659688
+      Browser Games - Run 3 - Runner_86: -15554601
+      Browser Games - Run 3 - Runner_87: -1177909819
+      Browser Games - Run 3 - Runner_88: 692277610
+      Browser Games - Run 3 - Runner_89: 484434152
+      Browser Games - Run 3 - Runner_9: 718486038
+      Browser Games - Run 3 - Runner_90: -1883769678
+      Browser Games - Run 3 - Runner_91: -149769206
+      Browser Games - Run 3 - Runner_92: 552734593
+      Browser Games - Run 3 - Runner_93: -1920511620
+      Browser Games - Run 3 - Runner_94: -1591508829
+      Browser Games - Run 3 - Runner_95: -2087363398
+      Browser Games - Run 3 - Runner_96: -1828863657
+      Browser Games - Run 3 - Runner_97: 855621257
+      Browser Games - Run 3 - Runner_98: -2019617800
+      Browser Games - Run 3 - Runner_99: 978914485
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

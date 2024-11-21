@@ -652,7 +652,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -725, y: 432}
+  m_AnchoredPosition: {x: -627, y: 384}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &801611705
@@ -1007,7 +1007,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   meteoritePrefab: {fileID: 628435721793798749, guid: e7d13b5813b6d47f780a54a208d9961f, type: 3}
-  spawnInterval: 1
+  spawnInterval: 0.5
 --- !u!4 &1201204613
 Transform:
   m_ObjectHideFlags: 0
@@ -1130,6 +1130,7 @@ MonoBehaviour:
   firePoint: {fileID: 1469462605}
   laserSpeed: 10
   shootSound: {fileID: 0}
+  laserCooldown: 4
 --- !u!50 &1311873486
 Rigidbody2D:
   serializedVersion: 4

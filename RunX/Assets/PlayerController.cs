@@ -14,6 +14,8 @@ public class PlayerController : MonoBehaviour
     public AudioSource shootSound;
     private PlayerHealth playerHealth;
     private bool isTakingDamage = false;
+    public float laserCooldown = 0.5f;
+    private float lastShotTime = 0f;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -49,14 +51,18 @@ public class PlayerController : MonoBehaviour
         Vector3 movement = new Vector3(moveHorizontal, moveVertical, 0f);
         transform.position += movement * speed * Time.deltaTime;
 
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Space) && Time.time > lastShotTime + laserCooldown)
         {
-            ShootLaser();
+                ShootLaser();
+            lastShotTime = Time.time;
         }
+    }
 
-        void ShootLaser()
-        {
-            if (firePoint != null)
+
+
+    void ShootLaser()
+    {
+        if (firePoint != null)
         {
             shootSound.Play();
             GameObject laser = Instantiate(laserPrefab, firePoint.position, firePoint.rotation);
@@ -67,11 +73,12 @@ public class PlayerController : MonoBehaviour
                 rb.velocity = firePoint.right * laserSpeed;
             }
 
+            Destroy(laser, 2f);
+
         }
         else
         {
             Debug.LogWarning("FirePoint not assigned in the Inspector!");
         }
     }
-}
 }

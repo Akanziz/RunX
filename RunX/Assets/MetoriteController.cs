@@ -10,13 +10,16 @@ public class MetoriteController : MonoBehaviour
     
         public float fallSpeed = 2f;
         public AudioSource audioSource;
+        public AudioClip collisionSound;
 
     // Update is called once per frame
     void Start()
     {
-        audioSource = GetComponent<AudioSource>();
+        if (audioSource == null)
+        {
+            audioSource = GetComponent<AudioSource>();
+        }
     }
-    
     void Update()
     {
         transform.position += Vector3.down * fallSpeed * Time.deltaTime;
@@ -38,9 +41,19 @@ public class MetoriteController : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Player"))
+        if (other.CompareTag("Player") || other.CompareTag("Laser"))
         {
+            if (collisionSound != null)
+            {
+                AudioSource tempAudioSource = new GameObject("TempAudioSource").AddComponent<AudioSource>();
+            tempAudioSource.clip = collisionSound;
+            tempAudioSource.Play();
+            
+            Destroy(tempAudioSource.gameObject, collisionSound.length);
+            }
+
             Destroy(gameObject);
         }
     }
 }
+

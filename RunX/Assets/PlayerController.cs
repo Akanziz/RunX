@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
@@ -50,6 +51,15 @@ public class PlayerController : MonoBehaviour
 
         Vector3 movement = new Vector3(moveHorizontal, moveVertical, 0f);
         transform.position += movement * speed * Time.deltaTime;
+
+        Vector3 playerPosition = transform.position;
+        float screenAspect = (float)Screen.width / (float)Screen.height;
+        float cameraHeight = Camera.main.orthographicSize;
+        float cameraWidth = cameraHeight * screenAspect;
+        
+        playerPosition.x = Math.Clamp(playerPosition.x, -cameraWidth, cameraWidth);
+        playerPosition.y = Math.Clamp(playerPosition.y, -cameraHeight, cameraHeight);
+        transform.position = playerPosition;
 
         if (Input.GetKeyDown(KeyCode.Space) && Time.time > lastShotTime + laserCooldown)
         {

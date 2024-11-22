@@ -330,7 +330,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 14aba171173644e07bc80bf7284c3615, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 6fd2ea0eac7794ee299a7fbd5b1ded77, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -350,8 +350,8 @@ Transform:
   m_GameObject: {fileID: 200693264}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.1308, z: 0.17}
-  m_LocalScale: {x: 1, y: 0.94890016, z: 1}
+  m_LocalPosition: {x: -0.02, y: -0.5001, z: 0.17}
+  m_LocalScale: {x: 1.0580661, y: 1.0834296, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -652,7 +652,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -627, y: 384}
+  m_AnchoredPosition: {x: -610, y: 384}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &801611705
@@ -1007,7 +1007,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   meteoritePrefab: {fileID: 628435721793798749, guid: e7d13b5813b6d47f780a54a208d9961f, type: 3}
-  spawnInterval: 0.5
+  spawnInterval: 0.3
 --- !u!4 &1201204613
 Transform:
   m_ObjectHideFlags: 0
